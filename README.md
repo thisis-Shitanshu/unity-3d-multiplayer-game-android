@@ -7,13 +7,17 @@ A Multiplayer Board game: **GO** (like, Chess) for Android Devices.
 
 ## Screenshots
 - Menu
+
 ![](./screenshots/ssHome.jpg)
 
 - Single Player
+
 ![](./screenshots/ssGame.jpg)
 
 - Connecting to another player
+
 ![](./screenshots/ssConnect.jpg)
 
 - Game Won
+
 ![](./screenshots/ssWon.jpg)
